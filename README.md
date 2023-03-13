@@ -41,4 +41,5 @@ Dann nochmal "Lernen" aber nun die Prozent hochdrehen.
 
 
 Alternative zum lokalen clonen: Direkt mit Binder ausprobieren (ist aber ein bisschen langsam).
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guhmuc/NeuronaleNetzeVortrag/HEAD?labpath=neuro2.ipynb)
