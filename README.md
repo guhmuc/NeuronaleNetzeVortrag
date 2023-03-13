@@ -38,3 +38,5 @@ Dann die Zelle
 
 ausführen und erneut "Stichproben" und "Erfolgskontrolle" ausprobieren und staunen ... 
 Dann nochmal "Lernen" aber nun die Prozent hochdrehen.  
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guhmuc/NeuronaleNetzeVortrag/HEAD)
