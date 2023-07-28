@@ -7,23 +7,22 @@ Zum trainieren und testen wird der MNIST Datensatz zur Erkennung von Ziffern ben
 
 Um das Notebook zu benutzen hast Du zwei Möglichkeiten: Lokal oder Cloud
 
-## Lokale Installation
-
-* Jupyter Lab auf Deinem Rechner installieren und ausführen:
-
-    pip3 install jupyterlab
-    jupyter lab
-
-* Diese Repo auf Deinen Rechner clonen
-* Das Notebook neuro2.ipynb öffnen ...
-* ... und weiter wie unten beschrieben
-
 ## In der Cloud
 
-Binder ist ein Cloud Service, mit dem Du Notebooks direk online, ohne etwas zu installation ausführen kannst. Ist aber ein bisschen (sehr) langsam! Einfach auf den Link hier clicken, ein wenig warten, bis alles eingerichtet ist (kann ein paar Minuten dauern) und das Notebook erscheint (mit dem Bild der Nervenzelle). Dann weiter wie im nächsten Abschnitt beschrieben.
+Binder ist ein Cloud Service, mit dem Du Notebooks direk online, ohne etwas zu installation ausführen kannst. Ist aber ein bisschen (sehr) langsam! Einfach auf den Link hier clicken, ein wenig warten, bis alles eingerichtet ist (kann ein paar Minuten dauern) und das Notebook erscheint (mit dem Bild der Nervenzelle). Dann weiter wie unter "Ausprobieren" beschrieben.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guhmuc/NeuronaleNetzeVortrag/HEAD?labpath=neuro2.ipynb)
 
+
+
+## Lokal
+
+Dazu musst Du Jupyter Lab auf Deinem Rechner installieren und ausführen:
+
+    * pip3 install jupyterlab
+    * jupyter lab
+
+Dann dieses Repo auf Deinen Rechner clonen, das Notebook neuro2.ipynb öffnen und weiter wie unter "Ausprobieren" beschrieben.
 
 ## Ausprobieren
 
